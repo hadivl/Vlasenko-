@@ -1,0 +1,13 @@
+D:\Users\stu-ipsp121\source\repos\Vlasenko\Vlasenko\bin\Debug\netcoreapp3.1\Vlasenko.exe
+D:\Users\stu-ipsp121\source\repos\Vlasenko\Vlasenko\bin\Debug\netcoreapp3.1\Vlasenko.deps.json
+D:\Users\stu-ipsp121\source\repos\Vlasenko\Vlasenko\bin\Debug\netcoreapp3.1\Vlasenko.runtimeconfig.json
+D:\Users\stu-ipsp121\source\repos\Vlasenko\Vlasenko\bin\Debug\netcoreapp3.1\Vlasenko.runtimeconfig.dev.json
+D:\Users\stu-ipsp121\source\repos\Vlasenko\Vlasenko\bin\Debug\netcoreapp3.1\Vlasenko.dll
+D:\Users\stu-ipsp121\source\repos\Vlasenko\Vlasenko\bin\Debug\netcoreapp3.1\Vlasenko.pdb
+D:\Users\stu-ipsp121\source\repos\Vlasenko\Vlasenko\obj\Debug\netcoreapp3.1\Vlasenko.csprojAssemblyReference.cache
+D:\Users\stu-ipsp121\source\repos\Vlasenko\Vlasenko\obj\Debug\netcoreapp3.1\Vlasenko.AssemblyInfoInputs.cache
+D:\Users\stu-ipsp121\source\repos\Vlasenko\Vlasenko\obj\Debug\netcoreapp3.1\Vlasenko.AssemblyInfo.cs
+D:\Users\stu-ipsp121\source\repos\Vlasenko\Vlasenko\obj\Debug\netcoreapp3.1\Vlasenko.csproj.CoreCompileInputs.cache
+D:\Users\stu-ipsp121\source\repos\Vlasenko\Vlasenko\obj\Debug\netcoreapp3.1\Vlasenko.dll
+D:\Users\stu-ipsp121\source\repos\Vlasenko\Vlasenko\obj\Debug\netcoreapp3.1\Vlasenko.pdb
+D:\Users\stu-ipsp121\source\repos\Vlasenko\Vlasenko\obj\Debug\netcoreapp3.1\Vlasenko.genruntimeconfig.cache
